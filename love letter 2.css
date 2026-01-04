@@ -237,7 +237,7 @@ body {
   background-image: url('wedding.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: 1370px;
+  background-size: cover;
 }
 
 .envlope-wrapper {
@@ -272,4 +272,5 @@ body {
   background-color: #d9534f;
   color: #fff;
 }
+
 
