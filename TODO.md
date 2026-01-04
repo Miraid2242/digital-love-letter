@@ -1,0 +1,4 @@
+- [x] Modify love letter 2.html to remove open and close buttons and add at least 30 envelope divs with unique sweet messages to Charlene Dollente, scattered positions.
+- [x] Update love letter 2.js to position envelopes randomly and scattered.
+- [x] Update love letter 2.js to handle opening/closing multiple envelopes on click.
+- [x] Test the website by opening it in a browser.
